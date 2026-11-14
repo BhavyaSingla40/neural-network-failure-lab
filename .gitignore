@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+creditcard.csv
+results/*.json
+results/*.npz
+.DS_Store
